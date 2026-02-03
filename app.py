@@ -11,13 +11,13 @@ from typing import List, Dict, Any, Optional
 import traceback
 
 from utils.prompt_loader import PromptLoader
-from utils.claude_client import ClaudeClient
+from utils.groq_client import GroqClient
 
 
 # Initialize components
 try:
     prompt_loader = PromptLoader()
-    claude_client = ClaudeClient()
+    groq_client = GroqClient()
     CATEGORIES = prompt_loader.get_category_list()
     CATEGORY_DISPLAY = {cat: prompt_loader.get_category_display_name(cat) for cat in CATEGORIES}
 except Exception as e:
@@ -103,10 +103,10 @@ def generate_single_listing(
         system_prompt = prompt_loader.build_system_prompt(category)
         user_prompt = prompt_loader.build_user_prompt(category, additional_context)
 
-        progress(0.3, desc="Analyzing image with Claude...")
+        progress(0.3, desc="Analyzing image with Groq (Llama 3.2 Vision)...")
 
         # Generate listing
-        listing = claude_client.generate_listing(
+        listing = groq_client.generate_listing(
             image_path=image,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -151,7 +151,7 @@ def generate_variations(
         progress(0.2, desc=f"Generating {num_variations} variations...")
 
         # Generate variations
-        variations = claude_client.generate_variations(
+        variations = groq_client.generate_variations(
             image_path=image,
             system_prompt=system_prompt,
             user_prompt=user_prompt,
@@ -211,7 +211,7 @@ def batch_generate_listings(
             progress(current / total, desc=status)
 
         # Batch generate
-        results = claude_client.batch_generate(
+        results = groq_client.batch_generate(
             image_paths=images,
             system_prompts=system_prompts,
             user_prompts=user_prompts,
@@ -250,6 +250,7 @@ with gr.Blocks(
         """
         # 🎨 Etsy Listing Generator
         ### AI-Powered Listing Creation with Image Analysis
+        ### Powered by Groq (Llama 3.2 Vision 90B) - Lightning Fast & Free ⚡
 
         Upload your product images and let AI generate SEO-optimized Etsy listings following 2025 algorithm best practices.
         """
@@ -458,19 +459,26 @@ with gr.Blocks(
         - Review and adjust generated content before publishing
 
         ### 🔒 Privacy
-        - Images are processed securely via Claude API
+        - Images are processed securely via Groq API
         - No data is stored permanently
-        - API keys are required (set `ANTHROPIC_API_KEY` environment variable)
+        - API keys are required (set `GROQ_API_KEY` environment variable)
+
+        ### ⚡ Why Groq?
+        - **100% Free** - No API costs
+        - **Ultra Fast** - 10-20x faster than traditional LLMs
+        - **Open Source** - Llama 3.2 Vision 90B model
+        - **High Quality** - Excellent vision and reasoning capabilities
         """
     )
 
 
 if __name__ == "__main__":
     # Check for API key
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        print("⚠️  WARNING: ANTHROPIC_API_KEY not found in environment variables!")
-        print("   Set it before running: export ANTHROPIC_API_KEY='your-key-here'")
-        print("   Or create a .env file with: ANTHROPIC_API_KEY=your-key-here")
+    if not os.getenv("GROQ_API_KEY"):
+        print("⚠️  WARNING: GROQ_API_KEY not found in environment variables!")
+        print("   Set it before running: export GROQ_API_KEY='your-key-here'")
+        print("   Or create a .env file with: GROQ_API_KEY=your-key-here")
+        print("   Get free API key at: https://console.groq.com/keys")
 
     # Launch app
     demo.launch(

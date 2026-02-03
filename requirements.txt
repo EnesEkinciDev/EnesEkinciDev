@@ -1,8 +1,11 @@
 # Core Dependencies
 gradio>=4.0.0
-anthropic>=0.18.0
+groq>=0.4.0
 pillow>=10.0.0
 python-dotenv>=1.0.0
 
 # Additional utilities
 typing-extensions>=4.0.0
+
+# Optional: Keep Claude support for comparison
+# anthropic>=0.18.0
