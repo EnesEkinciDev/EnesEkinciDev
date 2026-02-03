@@ -1,3 +1,15 @@
+---
+title: Etsy Listing Generator
+emoji: 🎨
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Etsy Listing Generator 🎨
 
 AI-powered Etsy listing generator using advanced image analysis and Etsy's 2025 algorithm best practices.
