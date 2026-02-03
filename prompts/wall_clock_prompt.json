@@ -1,0 +1,425 @@
+{
+  "category": "Wall Clock",
+  "category_id": "home_living > home_decor > clocks",
+  "etsy_taxonomy_path": "Home & Living > Home Décor > Clocks > Wall Clocks",
+
+  "category_description": "Wall Clock kategorisi duvar saatleri içerir. Decorative clocks, functional timepieces, modern, vintage, rustic styles dahildir.",
+
+  "image_analysis_specific": {
+    "focus_areas": [
+      "Saat mekanizması görünürlüğü (akrep, yelkovan, saniye ibreleri)",
+      "Saat yüzü tasarımı (rakamlar, indexler, minimal)",
+      "Materyal analizi (ahşap, metal, akrilik, MDF)",
+      "Şekil ve form (yuvarlak, kare, oval, custom shape)",
+      "Boyut ipuçları (referans nesneler, wall mockup)",
+      "Renk paleti (arka plan, ibreler, rakamlar)",
+      "Dekoratif elementler (gravür, baskı, 3D detaylar)",
+      "Stil belirleyicileri (vintage akrep-yelkovan, modern minimal, rustic wood)",
+      "Clock face depth (düz mı, 3D mi, raised numbers)",
+      "Frame veya border varlığı",
+      "Arka plan texture (smooth, distressed, painted)"
+    ],
+    "functional_assessment": [
+      "Rakam görünürlüğü (12, 3, 6, 9 veya tüm rakamlar)",
+      "Rakam stili (Roman, Arabic, modern, absent)",
+      "İbre tipi ve kontrast (okunabilirlik)",
+      "Sessiz mekanizma ipuçları (silent/quiet keyword'leri)",
+      "Pil bölmesi görünürlüğü (arka görsel varsa)"
+    ],
+    "style_identification": {
+      "common_styles": [
+        "Modern/Contemporary - minimal rakamlar, clean lines, metal/akrilik",
+        "Rustic/Farmhouse - distressed wood, vintage hands, natural materials",
+        "Vintage/Retro - klasik tasarım, nostaljik renkler, ornate details",
+        "Industrial - metal gears, exposed mechanism, raw finish",
+        "Scandinavian - minimal, light wood, simple numbers",
+        "Mid-Century Modern - geometric shapes, bold colors, atomic era",
+        "Coastal/Nautical - mavi-beyaz, deniz temaları, rope details"
+      ]
+    },
+    "size_estimation": {
+      "visual_clues": [
+        "Wall mockup varsa duvar ile karşılaştırma",
+        "Eller ile tutuluyorsa el boyutuna göre tahmin",
+        "Clock mechanism boyutu (standart AA pil mekanizmaları ~6-8cm)"
+      ],
+      "common_sizes": [
+        "Small: 8-12 inches (20-30cm) - küçük duvarlar, raflar",
+        "Medium: 12-18 inches (30-45cm) - en popüler, çoğu duvar",
+        "Large: 18-24 inches (45-60cm) - feature walls, büyük odalar",
+        "Oversized: 24+ inches (60cm+) - statement pieces"
+      ]
+    }
+  },
+
+  "title_generation_category_specific": {
+    "keyword_structure": {
+      "primary_keywords": [
+        "wall clock",
+        "wooden clock",
+        "wood wall clock",
+        "large wall clock",
+        "silent clock",
+        "decorative clock",
+        "clock"
+      ],
+      "descriptive_keywords": {
+        "material": ["wooden", "wood", "metal", "acrylic", "MDF", "rustic wood"],
+        "size": ["large", "oversized", "small", "12 inch", "18 inch", "24 inch"],
+        "functionality": ["silent", "quiet", "non-ticking", "battery operated", "quartz"],
+        "style": ["modern", "rustic", "farmhouse", "vintage", "industrial", "minimalist"],
+        "room": ["living room", "kitchen", "bedroom", "office", "nursery"],
+        "customization": ["personalized", "custom", "custom text", "family name"],
+        "special_features": ["with numbers", "without numbers", "roman numerals", "large numbers"]
+      }
+    },
+    "title_templates": [
+      "[Size] [Material] Wall Clock | [Style] [Special Feature] | [Room] Decor",
+      "[Style] [Material] Clock | Silent Wall Clock | [Size] [Room] Timepiece",
+      "Personalized [Material] Wall Clock | Custom [Theme] Clock | [Style] Home Decor"
+    ],
+    "examples": {
+      "large_rustic": "Large Wooden Wall Clock | Rustic Farmhouse Silent Clock | 24 Inch Living Room Decor",
+      "modern_minimal": "Modern Metal Wall Clock | Minimalist Silent Clock | Large Kitchen Timepiece",
+      "personalized_family": "Personalized Wood Clock | Custom Family Name Wall Clock | Farmhouse Home Decor"
+    },
+    "best_practices_category": [
+      "Boyut bilgisi kritik - inch cinsinden belirt (12 inch, 18 inch)",
+      "Silent/Quiet keyword yüksek arama - sessiz mekanizma vurgusu",
+      "Material keyword (wooden, metal) öne çıkar",
+      "Large keyword popüler - büyük saatler trend",
+      "Room name (living room, kitchen) spesifik arama için",
+      "Personalized seçeneği varsa mutlaka belirt"
+    ]
+  },
+
+  "description_generation_category_specific": {
+    "hook_templates": [
+      "Make a statement in your [room] with this [size] [style] wall clock that combines functionality with [aesthetic quality].",
+      "This handcrafted [material] clock brings [emotional benefit] to your space while keeping you on time in style.",
+      "Looking for a unique [occasion] gift? This personalized wall clock is both practical and beautiful, perfect for [use case]."
+    ],
+    "key_selling_points_to_highlight": [
+      "Silent/Quiet mechanism (en önemli feature - özellikle bedroom için)",
+      "Easy to read from distance (okunabilirlik)",
+      "Quality quartz movement (doğruluk ve güvenilirlik)",
+      "Handmade/handcrafted (unique olma)",
+      "Battery operated (kolay kullanım, AA pil)",
+      "Ready to hang (mounting hardware dahil)",
+      "Durable materials (uzun ömürlü)",
+      "Accurate timekeeping (precision)",
+      "Customization options (varsa)"
+    ],
+    "measurements_section": {
+      "importance": "Saatlerde boyut çok kritik - müşteri korkusu",
+      "include": [
+        "Overall diameter/dimensions (inch ve cm)",
+        "Clock face diameter (iç çap)",
+        "Depth/thickness from wall",
+        "Number/index size (visibility)",
+        "Weight (mounting için önemli)",
+        "Recommended viewing distance",
+        "Size comparison in photos ('Photo #X shows scale')"
+      ],
+      "size_guidance": "Duvar boyutuna göre öneriler - küçük duvar için 12-16\", orta duvar için 16-20\", büyük feature wall için 20-30\""
+    },
+    "mechanism_details_section": {
+      "essential_info": [
+        "Mekanizma tipi (Quartz movement - industry standard)",
+        "Silent/non-ticking özelliği (varsa vurgula - MAJOR selling point)",
+        "Pil tipi ve sayısı (1x AA battery)",
+        "Pil dahil mi değil mi (usually not included - belirt)",
+        "Mekanizma konumu (center-mounted standard)",
+        "Mekanizma kalitesi (high-quality movement, accurate timekeeping)"
+      ],
+      "if_silent_mechanism": "NON-TICKING SILENT MECHANISM - Perfect for bedrooms, offices, and quiet spaces. Enjoy peaceful sleep without distracting tick-tock sounds."
+    },
+    "material_details_section": {
+      "wood_clocks": [
+        "Ahşap türü (oak, walnut, pine, MDF)",
+        "Finish (stained, painted, natural, distressed)",
+        "Thickness (1/4\", 1/2\", 3/4\")",
+        "Edge treatment (smooth, rough, laser cut)",
+        "Coating (protective finish, UV resistant)"
+      ],
+      "metal_clocks": [
+        "Metal türü (steel, aluminum, iron)",
+        "Finish (powder coated, brushed, polished)",
+        "Weight consideration (heavier = sturdier mounting)"
+      ],
+      "hands_material": [
+        "İbre materyali (metal, plastic)",
+        "İbre rengi (black, gold, silver, white)",
+        "İbre style (modern, vintage, ornate)"
+      ]
+    },
+    "installation_section": {
+      "include": [
+        "Mounting hardware included (nail, screw, adhesive)",
+        "Wall type suitability (drywall, concrete, wood)",
+        "Installation ease (pre-drilled hole, keyhole)",
+        "Recommended wall stud for heavy clocks",
+        "Time setting instructions (simple - just turn hands)"
+      ]
+    },
+    "care_instructions_specific": [
+      "Wipe with soft, dry cloth - no harsh chemicals",
+      "Keep away from moisture (not bathroom suitable)",
+      "Avoid direct sunlight (fading prevention)",
+      "Replace battery when time slows (typically 12+ months)",
+      "Clean clock face gently with microfiber cloth",
+      "Do not use glass cleaner if wood"
+    ],
+    "room_suitability_section": {
+      "purpose": "Müşteriye placement fikirleri ver",
+      "suggestions": [
+        "Living Room - statement piece above sofa or fireplace",
+        "Kitchen - functional and decorative, easy to see while cooking",
+        "Bedroom - silent mechanism essential, soothing design",
+        "Office/Home Office - professional look, functional",
+        "Nursery - silent mechanism, gentle design",
+        "Dining Room - elegant centerpiece",
+        "Entryway/Hallway - welcoming accent"
+      ]
+    }
+  },
+
+  "tags_generation_category_specific": {
+    "high_value_tags": [
+      "wall clock",
+      "wooden wall clock",
+      "large wall clock",
+      "silent wall clock",
+      "rustic clock",
+      "farmhouse clock",
+      "modern clock",
+      "decorative clock",
+      "wood clock",
+      "living room clock",
+      "kitchen clock",
+      "bedroom clock",
+      "home decor clock"
+    ],
+    "long_tail_combinations": [
+      "silent wood clock",
+      "large rustic clock",
+      "farmhouse wall clock",
+      "modern wall clock",
+      "oversized clock",
+      "non ticking clock",
+      "wooden clock decor",
+      "handmade wall clock",
+      "personalized clock",
+      "custom wall clock"
+    ],
+    "functionality_tags": [
+      "silent clock",
+      "quiet clock",
+      "non ticking",
+      "battery clock",
+      "quartz clock"
+    ],
+    "style_tags": [
+      "rustic decor",
+      "farmhouse style",
+      "modern home decor",
+      "vintage clock",
+      "industrial clock",
+      "minimalist clock"
+    ],
+    "room_specific_tags": [
+      "living room decor",
+      "kitchen decor",
+      "bedroom clock",
+      "office clock",
+      "nursery decor"
+    ],
+    "gift_tags": [
+      "housewarming gift",
+      "wedding gift",
+      "anniversary gift",
+      "realtor gift",
+      "new home gift"
+    ],
+    "strategy_notes": "Silent/quiet tags yüksek conversion - mekanizma sessizse mutlaka kullan. Large/oversized popüler search terms. Material + style kombinasyonları güçlü (rustic wood clock)."
+  },
+
+  "attributes_category_specific": {
+    "required_attributes": {
+      "Primary Color": {
+        "analyze_from_image": "Clock face veya frame dominant rengi",
+        "common_values": ["Brown", "White", "Black", "Natural Wood", "Gray", "Blue", "Gold", "Silver"]
+      },
+      "Secondary Color": {
+        "analyze_from_image": "İbreler, rakamlar, accent renkler",
+        "common_values": ["Black", "White", "Gold", "Silver", "Brown", "Red"]
+      },
+      "Material": {
+        "analyze_from_image": "Ana materyal",
+        "common_values": ["Wood", "Metal", "MDF", "Acrylic", "Plywood", "Mixed materials"],
+        "note": "Wood en popüler"
+      },
+      "Clock Type": {
+        "values": ["Analog", "Digital"],
+        "default": "Analog (duvar saatlerinin %95+)"
+      },
+      "Size": {
+        "guidance": "Diameter veya width/height",
+        "common_values": ["Small (8-12 in)", "Medium (12-18 in)", "Large (18-24 in)", "Oversized (24+ in)"],
+        "note": "Large ve oversized yüksek talep"
+      },
+      "Style": {
+        "analyze_from_image": "Design aesthetic",
+        "common_values": ["Modern", "Rustic", "Farmhouse", "Industrial", "Vintage", "Minimalist", "Mid-Century", "Scandinavian"]
+      },
+      "Room": {
+        "infer_from_design": "En uygun oda",
+        "common_values": ["Living Room", "Kitchen", "Bedroom", "Office", "Dining Room", "Any Room"],
+        "guidance": "Silent ise bedroom uygun, bold design ise living room"
+      },
+      "Features": {
+        "look_for": "Özel özellikler",
+        "common_values": ["Silent/Non-ticking", "With numbers", "Without numbers", "Roman numerals", "Large numbers", "Glow in dark"],
+        "note": "Silent en değerli feature"
+      },
+      "Power Source": {
+        "standard": "Battery operated",
+        "specify": "AA battery (most common)"
+      },
+      "Personalization": {
+        "determine_from_image": "Custom text, name, date eklenebilir mi?",
+        "values": ["Available", "Not available", "Optional"]
+      }
+    },
+    "optional_but_valuable": {
+      "Number Style": ["Arabic", "Roman", "No numbers", "Mixed", "Modern markers"],
+      "Finish": ["Natural", "Stained", "Painted", "Distressed", "Glossy", "Matte"],
+      "Mounting Type": ["Keyhole", "Hook", "Adhesive", "Nail/Screw"]
+    }
+  },
+
+  "alt_text_category_specific": {
+    "template": "[Size] [style] [material] wall clock with [number style] and [hands color] hands, [additional notable features]",
+    "examples": [
+      "Large rustic wooden wall clock with black Roman numerals and black metal hands",
+      "Modern minimalist metal clock with no numbers and gold hands on white face",
+      "18-inch farmhouse wood clock with large Arabic numbers and vintage bronze hands"
+    ],
+    "include_elements": [
+      "Size (large, medium, oversized)",
+      "Material (wood, metal, acrylic)",
+      "Style (rustic, modern, farmhouse)",
+      "Number style (Arabic, Roman, none)",
+      "Hand color",
+      "Notable features (distressed, 3D numbers, silent)"
+    ]
+  },
+
+  "seo_keywords_pool": {
+    "high_volume_general": [
+      "wall clock",
+      "wooden clock",
+      "large wall clock",
+      "wall clocks",
+      "decorative clock",
+      "clock for wall"
+    ],
+    "high_intent_purchase": [
+      "silent wall clock",
+      "large wooden clock",
+      "rustic wall clock",
+      "farmhouse clock",
+      "modern wall clock",
+      "personalized clock",
+      "custom clock"
+    ],
+    "niche_specific": [
+      "oversized wall clock",
+      "non ticking clock",
+      "bedroom wall clock",
+      "living room clock",
+      "kitchen wall clock",
+      "office wall clock",
+      "farmhouse wall clock",
+      "rustic wood clock"
+    ],
+    "semantic_related": [
+      "wall timepiece",
+      "decorative timepiece",
+      "home decor clock",
+      "statement clock",
+      "functional art",
+      "wooden wall art clock"
+    ]
+  },
+
+  "competitive_insights": {
+    "price_range": "$25 - $150 (boyut, materyal ve customization'a göre)",
+    "sweet_spot": "$40-$75 - en popüler range",
+    "conversion_boosters": [
+      "Silent mechanism emphasis - HUGE selling point",
+      "Clear size dimensions with visual reference",
+      "Multiple size options",
+      "Fast shipping (functional item)",
+      "Quality mechanism guarantee",
+      "Lifestyle photos showing room context",
+      "Free personalization option"
+    ],
+    "common_mistakes_to_avoid": [
+      "Belirsiz boyut bilgisi - en büyük friction point",
+      "Silent mechanism varsa belirtmemek - missed opportunity",
+      "Sadece product shots - context eksikliği",
+      "Mekanizma kalitesinden bahsetmemek",
+      "Pil gereksinimini belirtmemek",
+      "Mounting hardware bilgisi vermemek"
+    ]
+  },
+
+  "category_specific_tips": {
+    "trend_awareness_2025": [
+      "Oversized clocks (24-30 inch) çok popüler",
+      "Silent mechanism artık beklenti - zorunlu özellik haline geldi",
+      "Minimal designs (rakamsız veya sadece index) artışta",
+      "Natural wood finishes (stained, raw) yüksek talep",
+      "Mixed materials (wood + metal) modern farmhouse için trend",
+      "Personalized family clocks (name, established date) hediye kategorisinde güçlü"
+    ],
+    "target_audience_insights": {
+      "primary_buyers": [
+        "Kadınlar 30-55 yaş (ev dekorasyon)",
+        "Yeni ev sahipleri (functional + decorative need)",
+        "İç mekan tasarımcıları (statement pieces)",
+        "Hediye alıcılar (housewarming, wedding)"
+      ],
+      "buyer_concerns": {
+        "size_anxiety": "Çok büyük mü/küçük mü? - Detailed dimensions + comparison photos",
+        "noise_concern": "Tik-tak sesi rahatsız eder mi? - Silent mechanism vurgusu",
+        "quality_doubt": "Mekanizma kaliteli mi? - Quality movement guarantee",
+        "installation": "Asmak zor mu? - Easy installation assurance"
+      }
+    },
+    "seasonal_opportunities": [
+      "Back to School (Ağustos-Eylül) - office/study room clocks",
+      "Holiday Season (Kasım-Aralık) - hediye kategorisi peak",
+      "New Year (Ocak) - organization/new home tema",
+      "Spring (Mart-Mayıs) - ev yenileme, housewarming"
+    ]
+  },
+
+  "output_example": {
+    "title": "Large Wooden Wall Clock | Rustic Farmhouse Silent Clock | 24 Inch Living Room Decor",
+    "tags": ["wall clock", "large wall clock", "wooden wall clock", "silent wall clock", "rustic clock", "farmhouse clock", "living room decor", "wood clock", "oversized clock", "non ticking clock", "quiet clock", "home decor clock", "housewarming gift"],
+    "attributes": {
+      "Primary Color": "Natural Wood",
+      "Secondary Color": "Black",
+      "Material": "Wood",
+      "Clock Type": "Analog",
+      "Size": "Large (24 inches)",
+      "Style": "Farmhouse",
+      "Room": "Living Room",
+      "Features": "Silent/Non-ticking, With numbers",
+      "Power Source": "1x AA Battery",
+      "Personalization": "Not available"
+    }
+  }
+}

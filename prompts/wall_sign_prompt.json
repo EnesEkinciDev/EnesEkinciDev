@@ -1,0 +1,313 @@
+{
+  "category": "Wall Sign",
+  "category_id": "home_living > home_decor > decorative_signs",
+  "etsy_taxonomy_path": "Home & Living > Home Décor > Wall Hangings > Signs",
+
+  "category_description": "Wall Sign kategorisi duvar süslemesi ve dekoratif tabelaları içerir. Motivational quotes, funny sayings, custom name signs, business signs, address plaques dahildir.",
+
+  "image_analysis_specific": {
+    "focus_areas": [
+      "Yazı içeriği ve tipografi (font style, boyut, okunabilirlik)",
+      "Yazı rengi ve arka plan kontrast (okunabilirlik için kritik)",
+      "Levha şekli (dikdörtgen, kare, oval, custom shape)",
+      "Kenar işleme ve finishing (raw edge, painted, distressed)",
+      "Asma mekanizması (hook, sawtooth hanger, command strips)",
+      "Boyut referansı (elle tutuluyorsa, duvardaysa ölçek ipuçları)",
+      "3D elementler varsa (raised letters, layered design)",
+      "Weathering veya distressed efektler (rustic görünüm)",
+      "Border veya frame elementleri",
+      "Dekoratif aksesuarlar (çiçekler, simgeler, grafik elementler)"
+    ],
+    "text_analysis": {
+      "instruction": "Görseldeki YAZIYI oku ve analiz et",
+      "key_points": [
+        "Quote veya saying'in tonu (motivational, funny, sentimental, inspirational)",
+        "Kelime sayısı (kısa quotes daha popüler)",
+        "Tema (family, love, faith, humor, business, address)",
+        "Hedef kitle (anne-babalar, evli çiftler, girişimciler, yeni ev sahipleri)",
+        "Sezonluk/temalı mı (Christmas, farmhouse, coastal)"
+      ],
+      "if_text_not_readable": "Yazıların tarzını ve genel kompozisyonu tanımla, 'custom text' seçeneği olduğunu belirt"
+    },
+    "style_identification": {
+      "common_styles": [
+        "Rustic/Farmhouse - distressed ahşap, doğal renkler, vintage font",
+        "Modern/Contemporary - temiz çizgiler, bold typography, minimal design",
+        "Vintage/Retro - eski okul renkler, klasik fontlar, nostaljik",
+        "Minimalist - basit, az element, negatif space kullanımı",
+        "Industrial - metal/tahta combo, raw finish, urban style",
+        "Coastal/Beach - mavi-beyaz, hafif renkler, deniz teması",
+        "Boho/Eclectic - renkli, pattern karışımı, artistik"
+      ]
+    }
+  },
+
+  "title_generation_category_specific": {
+    "keyword_structure": {
+      "primary_keywords": [
+        "wood sign",
+        "wooden sign",
+        "wall sign",
+        "wall art",
+        "wall decor",
+        "hanging sign",
+        "custom sign"
+      ],
+      "descriptive_keywords": {
+        "material": ["wooden", "wood", "rustic wood", "reclaimed wood", "MDF", "metal"],
+        "style": ["farmhouse", "rustic", "modern", "vintage", "distressed", "shabby chic"],
+        "purpose": ["home decor", "wall hanging", "living room decor", "bedroom decor", "entryway decor"],
+        "customization": ["personalized", "custom", "custom text", "family name", "monogram"],
+        "occasion": ["housewarming gift", "wedding gift", "anniversary gift", "birthday gift", "new home gift"],
+        "theme": ["motivational", "inspirational", "funny", "family", "faith", "love", "quote"]
+      }
+    },
+    "title_templates": [
+      "[Material] [Style] [Theme] Sign | [Size/Type] Wall Decor | [Occasion/Use]",
+      "Personalized [Material] Sign | Custom [Theme] Wall Art | [Style] Home Decor",
+      "[Theme/Quote Type] [Material] Wall Sign | [Style] Hanging Sign | [Recipient/Occasion]"
+    ],
+    "examples": {
+      "rustic_family_sign": "Rustic Wood Family Sign | Personalized Last Name Wall Decor | Farmhouse Entryway Gift",
+      "motivational_office": "Motivational Wood Sign | Inspirational Wall Art | Modern Office Decor Gift",
+      "funny_kitchen": "Funny Kitchen Sign | Rustic Wooden Wall Hanging | Farmhouse Home Decor"
+    },
+    "best_practices_category": [
+      "Sign sonrasına ne tür sign olduğunu ekle (wood sign, metal sign)",
+      "Personalized/Custom kelimesi conversion artırır - uygunsa kullan",
+      "Odanın adını kullan (kitchen, bathroom, living room) - spesifik arama",
+      "Gift kelimesi yüksek conversion - hediye potansiyeli varsa ekle",
+      "Style kelimesi (rustic, modern) erken pozisyonda - filtreleme için"
+    ]
+  },
+
+  "description_generation_category_specific": {
+    "hook_templates": [
+      "Transform your [room] into a [adjective] space with this [style] [material] sign that [benefit/emotion].",
+      "Looking for the perfect [occasion] gift? This personalized [material] sign is a thoughtful way to [emotional benefit].",
+      "Add warmth and character to your home with this handcrafted [style] wall sign featuring [quote/message theme]."
+    ],
+    "key_selling_points_to_highlight": [
+      "Handmade/handcrafted kalite (elle boyama, manuel üretim)",
+      "Dayanıklılık (kapalı alan kullanımı, yıllarca dayanır)",
+      "Ready to hang (asma aparatı dahil - friction point azaltır)",
+      "Unique/one-of-a-kind (her parça biraz farklı - el yapımı charm)",
+      "Made to order (taze üretim, özel ilgi)",
+      "Customization seçenekleri (text, renk, boyut değişikliği)",
+      "Versatile placement (her odaya uygun)",
+      "Gift-ready packaging (hediye ambalajı mevcut)"
+    ],
+    "measurements_section": {
+      "importance": "Wall sign'larda boyut korkusu var - çok detaylı ol",
+      "include": [
+        "Genişlik x Yükseklik (inch ve cm)",
+        "Kalınlık/derinlik (1/2\", 3/4\" vb.)",
+        "Ağırlık (tahmini)",
+        "Boyut görseli referansı ('Photo #X shows size comparison')",
+        "Önerilen asma yüksekliği (eye level, 57-60 inches from floor)"
+      ],
+      "size_guidance": "Küçük duvarlar için small, feature wall için large - öneride bulun"
+    },
+    "material_details_section": {
+      "wood_signs": [
+        "Ahşap türü (pine, cedar, birch, MDF)",
+        "Finish türü (stain, paint, raw/natural)",
+        "Edge treatment (smooth, rough, live edge)",
+        "Backing/backing board (solid vs slats)",
+        "Coating (polyurethane seal, weather-resistant)"
+      ],
+      "customization_info": {
+        "if_customizable": [
+          "Hangi elementler özelleştirilebilir (text, name, date)",
+          "Personalization nasıl sağlanır (order notes, message)",
+          "Character limit varsa belirt",
+          "Font veya renk seçenekleri",
+          "Preview sunuluyor mu (approval before production)"
+        ]
+      }
+    },
+    "care_instructions_specific": [
+      "Indoor use only (veya outdoor uygunsa belirt)",
+      "Nemli bezle silin, harsh chemicals kullanmayın",
+      "Direkt güneş ışığından kaçının (fading prevention)",
+      "Kuru ortamda saklayın (warping prevention)",
+      "Hanging hardware check (düzenli kontrol)"
+    ]
+  },
+
+  "tags_generation_category_specific": {
+    "high_value_tags": [
+      "wood sign",
+      "wooden wall sign",
+      "rustic home decor",
+      "farmhouse sign",
+      "custom wood sign",
+      "personalized gift",
+      "wall hanging",
+      "home decor sign",
+      "motivational sign",
+      "family name sign",
+      "entryway decor",
+      "living room art",
+      "housewarming gift"
+    ],
+    "long_tail_combinations": [
+      "rustic wood wall art",
+      "farmhouse wall decor",
+      "personalized family sign",
+      "custom home decor",
+      "wooden quote sign",
+      "distressed wood sign",
+      "handmade wall hanging",
+      "kitchen wood sign"
+    ],
+    "theme_specific_tags": {
+      "family_theme": ["family sign", "family name", "family decor", "last name sign"],
+      "motivational": ["motivational sign", "inspirational art", "quote sign", "positive vibes"],
+      "funny": ["funny sign", "humorous decor", "funny quote", "kitchen humor"],
+      "faith": ["faith sign", "scripture sign", "christian decor", "bible verse"],
+      "love_romance": ["love sign", "anniversary gift", "wedding gift", "couple decor"]
+    },
+    "occasion_tags": [
+      "housewarming",
+      "wedding gift",
+      "bridal shower",
+      "new home gift",
+      "realtor gift"
+    ],
+    "style_tags": [
+      "farmhouse style",
+      "rustic decor",
+      "modern farmhouse",
+      "vintage style",
+      "shabby chic"
+    ],
+    "strategy_notes": "Görseldeki yazının temasına göre theme_specific_tags seç. Style tags ürünün estetiğine göre. Occasion tags hediye potansiyeline göre."
+  },
+
+  "attributes_category_specific": {
+    "required_attributes": {
+      "Primary Color": {
+        "analyze_from_image": "Arka plan veya dominant renk",
+        "common_values": ["Brown", "White", "Black", "Gray", "Natural Wood", "Blue", "Beige", "Multi-color"]
+      },
+      "Secondary Color": {
+        "analyze_from_image": "Yazı rengi veya accent renk",
+        "common_values": ["Black", "White", "Brown", "Gold", "Silver", "Red"]
+      },
+      "Material": {
+        "analyze_from_image": "Görsel texture'dan belirle",
+        "common_values": ["Wood", "MDF", "Plywood", "Metal", "Acrylic", "Canvas"],
+        "preferred": "Wood veya Wooden (en popüler)"
+      },
+      "Size": {
+        "guidance": "Görsel ipuçlarından tahmin et veya çoklu seçenek sun",
+        "common_values": ["Small (under 12 in)", "Medium (12-24 in)", "Large (over 24 in)", "Custom size"]
+      },
+      "Style": {
+        "analyze_from_image": "Design aesthetic",
+        "common_values": ["Farmhouse", "Rustic", "Modern", "Vintage", "Shabby Chic", "Industrial", "Minimalist", "Boho"]
+      },
+      "Occasion": {
+        "infer_from_content": "Yazının teması veya hedef kullanım",
+        "common_values": ["Everyday", "Housewarming", "Wedding", "Anniversary", "Birthday", "Christmas", "Graduation"]
+      },
+      "Personalization": {
+        "determine_from_image": "Custom text veya name içeriyor mu?",
+        "values": ["Required", "Optional", "Not available"],
+        "guidance": "Şüpheliyse 'Optional' seç"
+      },
+      "Hanging Method": {
+        "look_for_in_image": "Arka tarafta hanger görünüyor mu?",
+        "common_values": ["Sawtooth hanger", "D-ring", "Keyhole", "Command strips", "Included hardware"]
+      }
+    },
+    "optional_but_valuable": {
+      "Finish": ["Natural", "Stained", "Painted", "Distressed", "Glossy", "Matte"],
+      "Indoor/Outdoor": ["Indoor", "Outdoor", "Both"],
+      "Orientation": ["Horizontal", "Vertical", "Square"]
+    }
+  },
+
+  "alt_text_category_specific": {
+    "template": "[Style] [Material] wall sign with [text theme/quote type] in [colors], [additional notable features]",
+    "examples": [
+      "Rustic wooden wall sign with motivational quote in white lettering on brown background",
+      "Farmhouse style wood sign with family name and established date in black text",
+      "Modern metal wall sign with funny kitchen quote in vintage typography"
+    ],
+    "include_elements": [
+      "Material (wood, metal)",
+      "Style (rustic, modern, farmhouse)",
+      "Text theme (motivational, funny, family)",
+      "Color scheme",
+      "Notable design features (distressed finish, 3D letters)"
+    ]
+  },
+
+  "seo_keywords_pool": {
+    "high_volume_general": [
+      "wood sign",
+      "wooden signs",
+      "wall sign",
+      "wall decor",
+      "home decor",
+      "rustic decor",
+      "farmhouse decor"
+    ],
+    "high_intent_purchase": [
+      "personalized sign",
+      "custom wood sign",
+      "housewarming gift",
+      "wedding gift",
+      "gift for home",
+      "wall art"
+    ],
+    "niche_specific": [
+      "family name sign",
+      "motivational wall art",
+      "funny kitchen sign",
+      "entryway decor",
+      "living room wall decor",
+      "rustic wall hanging",
+      "farmhouse wall art",
+      "distressed wood sign"
+    ],
+    "semantic_related": [
+      "wall hanging",
+      "decorative sign",
+      "home accent",
+      "rustic home decor",
+      "shabby chic decor",
+      "country decor",
+      "handmade sign"
+    ]
+  },
+
+  "competitive_insights": {
+    "price_range": "$15 - $80 (boyut ve customization'a göre)",
+    "sweet_spot": "$25-$45 - en popüler range",
+    "conversion_boosters": [
+      "Free personalization",
+      "Multiple size options",
+      "Gift wrapping available",
+      "Fast processing time (2-3 days)",
+      "Clear lifestyle photos showing scale",
+      "Excellent reviews with photo uploads"
+    ]
+  },
+
+  "output_example": {
+    "title": "Rustic Wood Family Name Sign | Personalized Last Name Wall Decor | Farmhouse Entryway Gift",
+    "tags": ["wood sign", "family name sign", "personalized gift", "rustic home decor", "farmhouse wall art", "custom wood sign", "entryway decor", "housewarming gift", "wedding gift", "last name sign", "wooden wall hanging", "handmade sign", "living room decor"],
+    "attributes": {
+      "Primary Color": "Natural Wood",
+      "Secondary Color": "Black",
+      "Material": "Wood",
+      "Size": "Medium (18 x 8 inches)",
+      "Style": "Farmhouse",
+      "Occasion": "Housewarming",
+      "Personalization": "Required"
+    }
+  }
+}
