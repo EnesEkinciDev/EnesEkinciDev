@@ -36,8 +36,8 @@ AI-powered Etsy listing generator using advanced image analysis and Etsy's 2025 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/EnesEkinciDev/EnesEkinciDev.git
-   cd EnesEkinciDev
+   git clone https://github.com/EnesEkinciDev/Etsy-listing-generator.git
+   cd Etsy-listing-generator
    ```
 
 2. **Install dependencies**
@@ -99,11 +99,15 @@ AI-powered Etsy listing generator using advanced image analysis and Etsy's 2025 
 ## 🏗️ Project Structure
 
 ```
-EnesEkinciDev/
+Etsy-listing-generator/
 ├── app.py                      # Main Gradio application
 ├── requirements.txt            # Python dependencies
 ├── .env.example               # Environment configuration template
+├── .env                       # Your API keys (not in git)
 ├── README.md                  # This file
+├── DEPLOYMENT.md              # Deployment guide
+├── vercel.json                # Vercel configuration
+├── runtime.txt                # Python version
 ├── prompts/                   # JSON prompt templates
 │   ├── base_prompt.json       # Core Etsy algorithm rules
 │   ├── wall_sign_prompt.json  # Wall Sign specific rules
@@ -111,7 +115,8 @@ EnesEkinciDev/
 ├── utils/                     # Utility modules
 │   ├── __init__.py
 │   ├── prompt_loader.py       # Prompt management
-│   └── claude_client.py       # Claude API integration
+│   ├── groq_client.py         # Groq API integration
+│   └── claude_client.py       # Claude API (legacy)
 └── docs/                      # Etsy documentation PDFs
     └── *.pdf                  # Algorithm & SEO research
 ```
